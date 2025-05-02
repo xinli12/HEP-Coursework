@@ -1,0 +1,32 @@
+# Figure properties
+figure.figsize: 6, 4
+figure.autolayout : True
+
+axes.labelsize : 13
+axes.prop_cycle: cycler(color=['xkcd:sky blue', 'xkcd:coral', 'xkcd:grass green', 'xkcd:goldenrod', 'xkcd:hot pink', 'xkcd:light orange', 'xkcd:turquoise', 'xkcd:lavender'])
+
+
+xtick.labelsize : 11
+ytick.labelsize : 11
+xtick.top : True
+ytick.right : True
+xtick.minor.visible : True
+ytick.minor.visible : True
+
+font.family: serif
+font.size : 12
+
+# text.usetex : True
+
+errorbar.capsize : 2
+
+legend.fontsize : 12
+
+
+
+
+# Saving properties
+savefig.dpi: 300
+savefig.format: pdf
+savefig.bbox: tight
+savefig.pad_inches: 0.1
