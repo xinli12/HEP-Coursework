@@ -57,6 +57,7 @@ pip install -r C2_event_classification/requirements.txt
 ## Report
 The final report is available in the `report/` directory.
 
+## Use of AI Tools
 ### Literature Review
 - Utilised “Deep research” (OpenAI) and “DeepSearch” (xAI) for high-level overviews and literature searches
 
